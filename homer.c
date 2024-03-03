@@ -19,7 +19,7 @@ int main(int argc, char **argv) {
 
 	int n;
 	if (argv[1] == NULL) {
-		n = 5;	
+		n = 236;	
 	}
 	else {
 		n = atoi(argv[1]);	
